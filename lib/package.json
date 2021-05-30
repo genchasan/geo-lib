@@ -1,0 +1,11 @@
+{
+  "name": "geo-libs",
+  "version": "1.0.1",
+  "description": "Geometric calculate tool",
+  "main": "geo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hasan Genc",
+  "license": "MIT"
+}
